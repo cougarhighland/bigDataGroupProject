@@ -5,7 +5,7 @@ This is a link of dataset [Flying prices](https://drive.google.com/file/d/1fUks9
 
 Requirements for running our application:
 
-Apache Spark v3.3.1 (Package type: "Pre-built for Apache Hadoop 2.7") [download](https://spark.apache.org/downloads.html) [How to set up](https://sparkbyexamples.com/spark/apache-spark-installation-on-windows/)
+Apache Spark v3.3.1 (Package type: "Pre-built for Apache Hadoop 2.7") [download](https://spark.apache.org/downloads.html), [How to set up](https://sparkbyexamples.com/spark/apache-spark-installation-on-windows/)
 
 PySpark on Anaconda Jupyter Notebook [How to set up](https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/)
 
